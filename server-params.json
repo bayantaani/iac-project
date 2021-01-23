@@ -1,0 +1,22 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "IaC-Project"
+    },
+    {
+        "ParameterKey":  "sshIP",
+        "ParameterValue": " 176.199.211.232/24"
+    },
+    {
+        "ParameterKey": "ServerImageId",
+        "ParameterValue": "ami-0ac73f33a1888c64a"
+    },
+    {
+        "ParameterKey": "ServerInstanceType",
+        "ParameterValue": "t3.small"
+    },
+    {
+        "ParameterKey": "ServerVolumeSize",
+        "ParameterValue": "10"
+    }
+]
